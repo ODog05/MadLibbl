@@ -1,0 +1,69 @@
+body{
+	background-color: blue;
+	font-family: 'Black Ops One', cursive;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto; 
+	font-size: 40px;
+	text-align: center;
+
+	
+}
+img{
+	width: 60%;
+}
+#madButton{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+#madButton{
+	display: block;
+	margin-right:auto ;
+	margin-left:auto ;
+
+}
+
+#finalMadLib{
+	height:500px ;
+	color:white ;
+	text-align:center ;
+	padding-right:225px ;
+	padding-left:225px ;
+	padding-top:20px ;
+	font-size:35px ;
+
+}
+.ic{
+	font-family: 'Black Ops One', cursive;
+	font-size: 20pt;
+	color: red;
+
+
+
+
+}
+
+
+.wc{
+font-size: 20pt;
+color: orange;
+
+
+}
+
+
+.c{
+color: blue;
+font-size: 40px ;
+background-color: red;
+font-weight: bolder;
+border-radius: 15px 25px 15px 25px;
+padding-right: 3px;
+padding-left: 3px;
+text-align: center;
+
+
+
+}
